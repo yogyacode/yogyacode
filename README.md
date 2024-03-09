@@ -1,4 +1,4 @@
-### Hi there 👋. hi, I'm Yogyacode, a passionate self-taught programmer from Yogyakarta.
+### Hi there 👋. I'm Yogyacode, a passionate self-taught programmer from Yogyakarta.
 
 <!--
 **yogyacode/yogyacode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
